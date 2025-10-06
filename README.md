@@ -54,7 +54,7 @@ My goal is to develop transparent, well-documented code that can stand up to cri
 ## About Me
 
 Oxford Physics graduate and former University Chess Captain, currently developing advanced programming and quantitative skills for a career in **quantitative finance**.  
-For context and education details, see my [CV](../RowlandKerrCV.pdf) or connect via [LinkedIn](https://www.linkedin.com/in/rowland-k-8945a3292/).
+For context and education details, see my CV or connect via [LinkedIn](https://www.linkedin.com/in/rowland-k-8945a3292/).
 
 
 ## Notes on Repository Organisation
